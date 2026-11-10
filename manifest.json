@@ -1,0 +1,25 @@
+{
+  "name": "FIBA 공식 농구 기록원 시스템 (Offline-First PWA)",
+  "short_name": "FIBA기록원",
+  "description": "FIBA 룰 기반 농구 경기 박스스코어 산출, A4 세로 공식 기록지 PDF 출력 및 실시간 문자 중계 웹앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20rx%3D%22110%22%20fill%3D%22%23070b14%22%2F%3E%3Ccircle%20cx%3D%22256%22%20cy%3D%22256%22%20r%3D%22188%22%20fill%3D%22%23ea580c%22%20stroke%3D%22%23f8fafc%22%20stroke-width%3D%2218%22%2F%3E%3Cpath%20d%3D%22M70%20256h372M256%2070v372M125%20125c70%2070%2070%20192%200%20262M387%20125c-70%2070-70%20192%200%20262%22%20stroke%3D%22%23070b14%22%20stroke-width%3D%2218%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20rx%3D%22110%22%20fill%3D%22%23070b14%22%2F%3E%3Ccircle%20cx%3D%22256%22%20cy%3D%22256%22%20r%3D%22188%22%20fill%3D%22%23ea580c%22%20stroke%3D%22%23f8fafc%22%20stroke-width%3D%2218%22%2F%3E%3Cpath%20d%3D%22M70%20256h372M256%2070v372M125%20125c70%2070%2070%20192%200%20262M387%20125c-70%2070-70%20192%200%20262%22%20stroke%3D%22%23070b14%22%20stroke-width%3D%2218%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
